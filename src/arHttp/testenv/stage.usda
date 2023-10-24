@@ -1,0 +1,7 @@
+#usda 1.0
+(
+    subLayers = [
+        @id0x01@,
+        @id0x02@
+    ]
+)

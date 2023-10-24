@@ -1,0 +1,12 @@
+#usda 1.0
+(
+    defaultPrim = "Prim2"
+)
+
+def "Prim2" (
+    assetInfo = {
+        string identifier = "id0x02"
+    }
+)
+{
+}

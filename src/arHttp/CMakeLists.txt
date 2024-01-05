@@ -8,7 +8,7 @@ add_library(${_lib}
   plugInfo.json
 )
 target_link_libraries(${_lib}
-  usdGeom
+  ${PXR_LIBRARIES}
 )
 target_include_directories(${_lib}
   PRIVATE
